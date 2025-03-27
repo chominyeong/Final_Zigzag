@@ -25,7 +25,7 @@
 - 상품명 / 리뷰 코멘트 / clean_count / clean_tfidf 각각
   1. 빈도 분석
   2. PMI
-  3. Word Embedding
+  3. Word Embedding    
 -> PMI는 사용 불가, 리뷰 코멘트보다는 CountVectorizer (review_count) & TfidfVectorizer (review_tfidf)로 다시 한 번 진행 (형용사 & 명사 사용)
 <br>
 
